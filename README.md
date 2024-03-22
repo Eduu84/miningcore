@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/nbvaa55gu3icd1q8?svg=true)](https://ci.appveyor.com/project/Eduu84/miningcore)
+[![Build status](https://ci.appveyor.com/api/projects/status/nbvaa55gu3icd1q8?svg=true)](https://ci.appveyor.com/project/oliverw/miningcore)
 [![.NET](https://github.com/Eduu84/miningcore/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Eduu84/miningcore/actions/workflows/dotnet.yml)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
@@ -23,7 +23,7 @@
 
 Commercial support directly by the maintainer is available through [miningcore.pro](https://store.miningcore.pro).
 
-For general questions visit the [Discussions Area](https://github.com/Eduu84/miningcore/discussions).
+For general questions visit the [Discussions Area](https://github.com/oliverw/miningcore/discussions).
 
 ## Contributions
 
@@ -125,7 +125,7 @@ docker system prune -af
 
 ### Production OS
 
-Windows is **not** a supported production environment. Only Linux is. Please do not file issues related to running a pool on Windows. Windows topics should be posted under [discussions](https://github.com/Eduu84/miningcore/discussions).
+Windows is **not** a supported production environment. Only Linux is. Please do not file issues related to running a pool on Windows. Windows topics should be posted under [discussions](https://github.com/oliverw/miningcore/discussions).
 
 Running and developing Miningcore on Windows is of course supported.
 
@@ -176,7 +176,7 @@ Once you have done this for all of your existing pools you should now restore yo
 
 ### Configuration
 
-Create a configuration file `config.json` as described [here](https://github.com/Eduu84/miningcore/wiki/Configuration).
+Create a configuration file `config.json` as described [here](https://github.com/oliverw/miningcore/wiki/Configuration).
 
 ### Start the Pool
 
@@ -211,7 +211,7 @@ Refer to [this file](https://github.com/Eduu84/miningcore/blob/master/src/Mining
 
 ## API
 
-Miningcore comes with an integrated REST API. Please refer to this page for instructions: https://github.com/Eduu84/miningcore/wiki/API
+Miningcore comes with an integrated REST API. Please refer to this page for instructions: https://github.com/oliverw/miningcore/wiki/API
 
 ## Running a production pool
 
@@ -221,7 +221,7 @@ Once again, do not run a production pool on Windows! This is not a supported con
 
 ## Donations
 
-To support this project you can become a [sponsor](https://github.com/sponsors/Eduu84) or send a donation to the following accounts:
+To support this project you can become a [sponsor](https://github.com/sponsors/oliverw) or send a donation to the following accounts:
 
 * ETH:  `miningcore.eth (ENS Address)`
 * BTC:  `miningcore.eth (ENS Address)`
